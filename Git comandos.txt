@@ -1,0 +1,53 @@
+Git Init:
+	Serve para iniciar o git!
+
+Git Status:
+	Git status serve para ver o status dos arquivos do git
+
+Git add:
+	Git add serve para adicionar arquivos de codigo no meu repositório
+
+Git commit -m "...":
+	Serve para comitar o arquivo e para enviar para o repositório do github 
+
+Git push:
+	Serve para enviar os arquivos para o meu github
+
+Git reflog:
+	Serve para ver todos os commit e as alterações feitas no documento
+
+Git reset --hard (mais o codigo que desejo voltar a alteração):
+	Serve para voltar para o commit anterior
+
+Git Branch:
+	Serve para ver as branch que tem no seu repositório.
+O que é branch?
+R:Branch é um onde esta armazenado os arquivos do repositorio principal, quando eu dou um 'git push' ele normalmente vai para a branch master!
+sendo assim eu posso criar outras branch para ir atualizando o codigo e ir colocando novas funcionalidades até o arquivo está totalmente finalizado,
+e por fim emergir da branch temporaria para branch principal master.
+
+Como criar uma branch temporaria?
+R:Para criar uma branch temporaria basta eu colocar 'git branch 'e o nome da branch temporaria'' que vai servir para ir atualizando o codigo 
+enquanto não estiver finalizado.
+
+Como fazer para passar de uma branch para outra?
+R:Basta dar um 'git checkout 'e o nome da branch que quero estar''
+
+Como fazer para passar as atualizações da branch temporaria para a branch principal?
+R:Primeiro tenho que dar um 'git checkout' para a branch principal e ai dar um 'git merge 'e o nome da branch temporaria''
+para emergir os dados e as atualizações da branch temporaria para branch principal que é a master
+
+Para que serve o git pull?
+R:Git pull serve para atualizar todas as atualizações na branch onde estou trabalhando individualmente e em equipe!
+
+Passos a seguir git:
+!-git pull na branch local(para atualizar a branch local)
+2-criar uma branch temporaria
+3-trabalhar na branch temporia até finalizar o projeto
+4-da um git checkout para branch local
+5-git pull
+6-git merge da branch temporaria para branch local
+7-git push na branch local
+
+Com criar uma branch com base na branch local(master)?
+R:git checkout -b 'nome da branch' serve para criar uma branch com base na branch local ou seja, a branch master

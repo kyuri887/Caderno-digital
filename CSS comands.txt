@@ -1,0 +1,71 @@
+Css comandos:
+
+Para que serve o background-color?
+R:atributo usado para inserir cor ao fundo 
+
+Para que serve o atributo color?
+R:atributo usado para colocar cor nos textos do html
+`
+Para que serve text-decoration?
+R:para decorar o texto
+text-decoration: underline:inseri uma linha em baixo do texto
+text-decoration: none: deixa sem decoração
+
+Para que ser o text-transform?
+R:para tranformar o texto.
+Text-transform:capitalize: deixa a primeira letra da palavra em maiusculo
+Text-transform:uppercase: deixa todas as palavras em maiusculo
+
+Para que serve texto-align?
+R:para ajustar o texto em uma posição
+text-align: center: deixa o texto no centro da pagina
+text-align: left: deixa o texto a esquerda da pagina
+text-align: right: deixa o texto a direita da pagina
+
+Para que serve margin e padding?
+R: margin é o espaçamento externo que é dado nos 4 cantos da tela tanto como:
+margin-left: margin que da o espaçamento da esquerda desejado;
+margin-right: margin que da o espaçamento da direita desejado;
+margin-top: margin que da o espaçamento de cima desejado;
+margin-bottom: que da o espaçamento de baixo desejado.
+
+padding é o espaçamento interno que é dado dentro de um bloco como borda,background etc...
+padding-left: espaçamento dado da esquerda desejado dentro do bloco;
+padding-right: espaçamento dado da direita desejado dentro do bloco;
+padding-top: espaçamento dado de cima desejado dentro do bloco;
+padding-bottom: espaçamento dado de baixo desejado dentro de um bloco.
+
+Para que serve o font-size no css?
+R:font-size serve para mundar o tamanho da font como desejado.
+
+Como usar o border?
+R:Border serve para criar bordas no css, os comandos são:
+border-style: estilo da borda;
+border-color:cor da borda;
+border-radius: para arredondar a pontas das bordas;
+border: para colocar o tamanho da expessura da borda, e tmb posso colocar o tamanho da expessura só de algum lado da borda inserindo:
+border-top: em cima da borda
+border-bottom: em baixo da borda
+border-right: lado direito da borda
+border-left: lado esquerdo da borda;
+E para colocar cor de um lado só da borda, basta color "-color" na frente.
+
+Como comentar o codigo css?
+R: Para comentar o codigo css basta colocar /*comentario*/ digitando o comentario no centro.
+
+Como deixar o texto em negrito pelo css?
+R:Para deixar o texto em negrito pelo css basta inserir o comando font-weight: bold ou bolder, e para definir a expessura do negrito posso colocar
+entre 100 ate 900 de expessura. e para tirar o negrito que vem por padrão em titulos pode colocar font-weight: normal.
+
+Para que serve o font-variant?
+R:font-variant: small-caps deixa todas as letras do texto em maiuscula em tamanho de minuscula.
+
+Como deixar um espaçamento em quebra de linha?
+R: Basta eu inserir line-height e o tamanho que vou querer de espaçamento
+
+Como colocar espaçamento de uma letra para outra pelo css pelo css?
+R:basta colocar um letter-spacing e o tamanho do espaçamento.
+
+
+
+

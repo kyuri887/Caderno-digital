@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>:é inserido no começo do documento para formatar como documento html
+
+<head>:Cabeçalho do site que é inserido dentro da tag <html>
+
+<Meta Lang>:é colocado dentro da tag <head> para inserir a linguagem do site que normalmente no brasil é pt-br
+
+<Link>:Link é colocado dentro da tag <head> para inserir o caminho do css com o atributo "href" 
+
+<body>:Corpo do site que inserido dentro da tag <html>
+
+<h1> ao <h4>:Tags de titulos
+
+<p>:tag de paragrafo, que ira escrever textos
+
+<span>: tag com a função de escrever texto, só que a unica diferença é que é uma tag inline que não atua por blocos 
+e a cada <span> usado ela vai escrevendo na mesma linha sem paragrafo 
+
+<br>:Tag de quebra de linha
+
+<img src"caminho da imagem" alt="Para cegos colocar uma legenda"
+(width:para inserir a largura da img e heidth para a altura)>: tag para inserir imagens no html
+
+<a href:"caminho do link" (target: _blank: serve para o link abrir em outra aba)>:Tag usada para inserir links no site
+
+Como inserir tabelas no html?
+R:Para inserir tabelas no html usa a tag <table> dentro dela inserir <tr> que são as linhas da tabela e dentro da tag <tr>
+inserir a tag <td> que são as coluna da tabela e só basta inserir o conteúdo.
+          *Para fazer uma tabela mais profissional basta apenas usar o <table> como tag, dentro dele inserir <thead> Como cabeça da tabela
+dentro do colocar <tr> que são as linhas dentro colocar <th> que são as colunas onde estão os titulos da tabela em negrito, a cabeça da tabela.
+Em seguida basta colocar <tbody> que é o corpo da tabela, dentro colocar <tr> como as linhas e dentro <td> que são as colunas,
+que ficaram os dados da tabela
+ 
+Como inserir formúlarios no html?
+R:para inserir formularios no html é só usar tag <form> e dentro da tag form usar a tag <input type="tipo do formúlario(text, password, number etc...)">
+
+Como criar botão para enviar formulario?
+R: <input type="buttom" value="O que vai ser escrito dentro do botão"> ou usar a tag<button>
+
+Para que serve a tag <div>?
+R:Tag <div> serve para dividir blocos e deixar o site mais organizado!
+
+Para que serve a tag <b>, <i>, <u>?
+R:a tag <b> deixa o texto em bold, em negrito, a tag <i> em italic com as palavras meio em diagonal,
+e a tag <u> deixa o texto em underline com a linha em baixo
+
+
+
+

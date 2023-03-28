@@ -1,0 +1,6 @@
+O que é http?
+R:HTTP significa Hipertext Transfer Protocol, é usado para gerenciar as requisições (cliente), e as respostas (servidor) pela internet.
+De forma resumida, o HTTP é o  protocolo que define as regras entre de comunicação entre o cliente e o servidor web
+
+O que TCP?
+R:TCP significa Transmission Control Protocol, que genrencia os canais entre o navegador (browser) e o servidor.
