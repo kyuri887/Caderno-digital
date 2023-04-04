@@ -66,6 +66,14 @@ R: Basta eu inserir line-height e o tamanho que vou querer de espaçamento
 Como colocar espaçamento de uma letra para outra pelo css pelo css?
 R:basta colocar um letter-spacing e o tamanho do espaçamento.
 
+List-style-position serve para que?
+R:Esta tag posiciona a lista para dentro do corpo do site inserindo a ta List-style-position: inside;
+
+List-style-type?
+R:serve para colocar o tipo de lista, se é em disco, circulo, decimal, grego etc...
+
+
+
 
 
 

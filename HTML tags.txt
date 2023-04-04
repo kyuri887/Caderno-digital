@@ -43,6 +43,7 @@ Para que serve a tag <b>, <i>, <u>?
 R:a tag <b> deixa o texto em bold, em negrito, a tag <i> em italic com as palavras meio em diagonal,
 e a tag <u> deixa o texto em underline com a linha em baixo
 
-
-
+Como criar lista no html?
+R: Para criar uma lista não ordenada basta colocar a tag <ul> para criar uma lista não ordenada e <ol> para uma
+lista ordernada com numeração, ambas as tags para inserir o conteúdo tenho que colocar a tag <li>
 
